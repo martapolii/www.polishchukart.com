@@ -13,3 +13,9 @@ Key Features:
 - CSS Styling: Custom styles for the layout, typography, and gallery design.
 
 This project demonstrates my ability to create a visually engaging and fully functional website using HTML, CSS, and JavaScript.
+
+Working on:
+- improving page layout on mobile devices
+- revamping the home screen
+- adding more information to the overlays for each painting (painting description, etc)
+- debugging the grid - since I made a 'custom' grid layout to emphasize certain paintings, I find that at certainb aspect ratios the grid'breaks' and images are no longer contained in their containers, or css properties conflict 
